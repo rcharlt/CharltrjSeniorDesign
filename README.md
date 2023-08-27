@@ -25,5 +25,5 @@ Internal Computer Support InternSchneider Downs Inc,, *May 2021-Present (7 semes
 - Cloud Computing
   
 ## Project Sought
-- Possible Android Application 
+- Possible Android Application (Friend finder based on user preferences)
 - Possible relation to co-op
